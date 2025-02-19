@@ -7,5 +7,5 @@ public class Test {
 	
 	String sub003 = "";
 	
-	String sub004 = "";
+	String sub005 = "";
 }
