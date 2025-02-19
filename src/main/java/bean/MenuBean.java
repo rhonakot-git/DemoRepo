@@ -13,6 +13,9 @@ public class MenuBean extends MessageBean{
 	// ユーザ名
 	private String userName;
 	
+	// ユーザID
+	private String userId;
+	
 	// メニュー項目リスト
 	private List<MenuItemBean> menuItemList;
 	
