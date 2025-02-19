@@ -13,7 +13,7 @@ public class MenuBean extends MessageBean{
 	// ユーザ名
 	private String userName;
 	
-	// ユーザID1
+	// ユーザID2
 	private String userId;
 	
 	// メニュー項目リスト
